@@ -1,5 +1,5 @@
 ---
-title: wall clock
+title: Weddings are basically funerals with cake 1
 date: 2022-08-15 15:05
 tags:
   - blog
