@@ -1,7 +1,7 @@
 ---
 title: Gatsby Starter Glass
 template: index-template
-profile_image: /media/rocket.jpg
+profile_image: ""
 ---
 
 #Hello World
